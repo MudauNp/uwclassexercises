@@ -1,0 +1,14 @@
+C:\netprojects\FirstClassExercise\bin\Debug\net7.0\FirstClassExercise.exe
+C:\netprojects\FirstClassExercise\bin\Debug\net7.0\FirstClassExercise.deps.json
+C:\netprojects\FirstClassExercise\bin\Debug\net7.0\FirstClassExercise.runtimeconfig.json
+C:\netprojects\FirstClassExercise\bin\Debug\net7.0\FirstClassExercise.dll
+C:\netprojects\FirstClassExercise\bin\Debug\net7.0\FirstClassExercise.pdb
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\FirstClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\FirstClassExercise.AssemblyInfoInputs.cache
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\FirstClassExercise.AssemblyInfo.cs
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\FirstClassExercise.csproj.CoreCompileInputs.cache
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\FirstClassExercise.dll
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\refint\FirstClassExercise.dll
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\FirstClassExercise.pdb
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\FirstClassExercise.genruntimeconfig.cache
+C:\netprojects\FirstClassExercise\obj\Debug\net7.0\ref\FirstClassExercise.dll
